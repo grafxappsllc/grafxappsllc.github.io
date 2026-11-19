@@ -1,1 +1,1 @@
-[{"relation":["delegate_permission/common.handle_all_urls"],"target":{"namespace":"android_app","package_name":"com.rolliant.rolliant","sha256_cert_fingerprints":["66:2B:4C:CC:C7:BC:72:D2:4B:ED:C7:EF:0D:4A:D8:33:E0:EF:C1:03:E6:E9:BD:50:A4:24:4F:85:B5:78:64:9E"]}}]
+[{"relation":["delegate_permission/common.handle_all_urls"],"target":{"namespace":"android_app","package_name":"com.grafxapps.rolliant","sha256_cert_fingerprints":["66:2B:4C:CC:C7:BC:72:D2:4B:ED:C7:EF:0D:4A:D8:33:E0:EF:C1:03:E6:E9:BD:50:A4:24:4F:85:B5:78:64:9E"]}}]
